@@ -1,0 +1,25 @@
+:lang: en
+:doctype: article
+:docname: GitLab Container Registry using docker-compose
+:sectnums:
+:sectlinks:
+:sectnumlevels: 5
+:toc: right
+:toclevels: 5
+:toc-title: Table of Contents
+:example-caption: e.g.
+:table-caption: Table
+:figure-caption: Figure
+:author: high-u
+:revnumber: 0.1
+:revdate: 2019/07/13
+
+# GitLab Container Registry using docker-compose
+
+## GitLab YAML Reference
+
+- [Install GitLab using docker-compose](https://docs.gitlab.com/omnibus/docker/#install-gitlab-using-docker-compose)
+
+
+
+
